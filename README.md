@@ -1,0 +1,2 @@
+# EYENAV-ENHANCING-HEALTHCARE-ACCESSIBILITY-WITH-EYE-CONTROL-COMMUNICATION
+Paralyzed individuals face communication barriers, leading to social isolation. EyeNav, designed for those with limited mobility, offers a user-friendly interface using eye blinks to convey needs like 'Food' or 'Help.' It bridges the gap in healthcare communication by enabling voice interaction, ensuring accessibility for all.
